@@ -1,4 +1,4 @@
-# 配布用zipを作り、GitHub Releases に新しい版として公開する
+﻿# 配布用zipを作り、GitHub Releases に新しい版として公開する
 # 使い方: powershell -File tools\release.ps1 -Version v1.2 -Notes "変更内容"
 param(
     [Parameter(Mandatory)] [string]$Version,
