@@ -1,7 +1,6 @@
 # medical-paper-slides
 
 医学論文のPDFから、論文内容の**要約スライド**（日本語・pptx）を作るClaude用スキル。
-作成されるのは論文の要約であり、そのまま学会発表に使うことは想定していない。
 
 Codex版はこちら：https://github.com/tsushima6010/medical-paper-slides-codex
 
