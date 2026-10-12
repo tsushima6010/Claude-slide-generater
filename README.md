@@ -26,9 +26,11 @@ git -C $HOME/.claude/skills/medical-paper-slides pull
 ### claude.ai で使う場合
 1. 最新版のzipをダウンロード：
    https://github.com/tsushima6010/medical-paper-slides/releases/latest/download/medical-paper-slides.zip
-2. claude.ai の設定画面からスキルとしてzipをアップロードする
+2. Claude の左メニュー「カスタマイズ」→「Skills」→ 右上「＋追加」→「Skills をアップロード」で、zipを解凍せずにアップロードする
+3. 論文PDFを渡して「スライドにして」と依頼する
 
-更新があったときは、同じリンクから最新版を取り直してアップロードし直す。
+更新があったときは、同じリンクから最新版を取り直してアップロードし直す
+（旧版が残っている場合は、「自分のもの」から旧版を削除してからアップロードする）。
 
 ## 使い方
 論文PDFを渡して「スライドにして」と依頼する。
