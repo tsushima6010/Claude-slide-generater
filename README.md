@@ -13,6 +13,8 @@
 
 ## 導入
 ### Claude Code で使う場合
+Claude Code にこのページのURLを渡して「このスキルを入れて」と頼めば導入できる。
+手動で入れる場合は次のコマンドを実行する。
 ```
 git clone https://github.com/tsushima6010/medical-paper-slides.git $HOME/.claude/skills/medical-paper-slides
 ```
