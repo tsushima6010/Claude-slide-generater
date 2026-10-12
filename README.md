@@ -32,3 +32,11 @@ git -C $HOME/.claude/skills/medical-paper-slides pull
 ## 注意
 - 患者情報・未発表データを含むファイルは使用しない
 - 数値・統計値・引用は必ず原著と照合する
+
+## ライセンス
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)（全文は [LICENSE](LICENSE)）
+
+- 個人・業務での利用、改変、商用利用は自由。このスキルで作成したスライドに表示義務はない
+- スキル自体（原版・改変版）を再配布・公開する場合は、次のように出典を表示すること
+  > 本スキルは tsushima6010「medical-paper-slides」（https://github.com/tsushima6010/medical-paper-slides 、CC BY 4.0）を改変したものです。
+- 無保証。本スキルを用いて作成したスライドの内容の正確性は利用者が確認すること
